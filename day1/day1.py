@@ -10,3 +10,5 @@ with open(path,'r',encoding='utf-8-sig') as f:
         cal.append(sum_cal)
 
 print(max(cal))
+cal=sorted(cal)
+print(sum(cal[-3:]))
