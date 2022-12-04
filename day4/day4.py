@@ -1,5 +1,5 @@
 import string
-import re
+#import re
 
 path='input\\day4.txt'
 p1 = 0
