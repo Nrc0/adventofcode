@@ -1,6 +1,6 @@
 # adventofcode
 
-[--- Day 1: Calorie Counting ---](./day1/day1.py)   
-[--- Day 2: Rock Paper Scissors ---](./day2/day2.py)   
-[--- Day 3: Rucksack Reorganization ---](./day3/day3.py)   
-[--- Day 4: Camp Cleanup ---](./day4/day4.py)   
+[--- Day 1: Calorie Counting ---](./day01/day01.py)   
+[--- Day 2: Rock Paper Scissors ---](./day02/day02.py)   
+[--- Day 3: Rucksack Reorganization ---](./day03/day03.py)   
+[--- Day 4: Camp Cleanup ---](./day04/day04.py)   
