@@ -8,3 +8,6 @@
 [--- Day 6: Tuning Trouble ---](./day06/day06.py)   
 [--- Day 7: No Space Left On Device ---](./day07/day07.py)   
 [--- Day 8: Treetop Tree House ---](./day08/day08.py)   
+
+[--- Day 10: Cathode-Ray Tube ---](./day10/day10.py)   
+[--- Day 11: Monkey in the Middle ---](./day11/day11.py)   
