@@ -1,6 +1,6 @@
 # adventofcode
 
-[--- Day 1: Calorie Counting ---](./day01/day01.py)[ /!\ => more](https://adventofcode.com/2022/day/1)   
+[--- Day 1: Calorie Counting ---](./day01/day01.py) /!\ => [more](https://adventofcode.com/2022/day/1)   
 [--- Day 2: Rock Paper Scissors ---](./day02/day02.py)[ /!\ => more](https://adventofcode.com/2022/day/2)   
 [--- Day 3: Rucksack Reorganization ---](./day03/day03.py)[ /!\ => more](https://adventofcode.com/2022/day/3)   
 [--- Day 4: Camp Cleanup ---](./day04/day04.py)[ /!\ => more](https://adventofcode.com/2022/day/4)   
