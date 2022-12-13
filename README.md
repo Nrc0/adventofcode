@@ -10,4 +10,6 @@
 [--- Day 8: Treetop Tree House ---](./day08/day08.py)   
 [--- Day 9: Rope Bridge ---](./day09/day09.py)   
 [--- Day 10: Cathode-Ray Tube ---](./day10/day10.py)   
-[--- Day 11: Monkey in the Middle ---](./day11/day11.py)   
+[--- Day 11: Monkey in the Middle ---](./day11/day11.py)  
+[--- Day 12: Hill Climbing Algorithm ---](./day12/day12.py)[more](https://adventofcode.com/2022/day/12)  
+[--- Day 13: Distress Signal ---](./day13/day13.py)[more](https://adventofcode.com/2022/day/13)   
