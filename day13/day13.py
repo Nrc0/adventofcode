@@ -1,4 +1,4 @@
-input_path ='C:\\Users\\S0122896\\MyApp\\repo\\adventofcode\\input\\day13.txt'
+input_path ='C:\\...\\input\\day13.txt'
 
 import string
 
