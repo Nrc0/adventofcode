@@ -12,4 +12,5 @@
 [More](https://adventofcode.com/2022/day/10) >>>   [--- Day 10: Cathode-Ray Tube ---](./day10/day10.py)             
 [More](https://adventofcode.com/2022/day/11) >>>   [--- Day 11: Monkey in the Middle ---](./day11/day11.py)        
 [More](https://adventofcode.com/2022/day/12) >>>   [--- Day 12: Hill Climbing Algorithm ---](./day12/day12.py)     
-[More](https://adventofcode.com/2022/day/13) >>>   [--- Day 13: Distress Signal ---](./day13/day13.py)              
+[More](https://adventofcode.com/2022/day/13) >>>   [--- Day 13: Distress Signal ---](./day13/day13.py)       
+[More](https://adventofcode.com/2022/day/14) >>>   [--- Day 14: Regolith Reservoir ---](./day14/day14.py)              
