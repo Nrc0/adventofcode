@@ -1,4 +1,4 @@
-input_path ='C:\\Users\\S0122896\\MyApp\\repo\\adventofcode\\input\\day16.txt'
+input_path ='day16/day16.txt'
 
 input_data = open(input_path).read()
 

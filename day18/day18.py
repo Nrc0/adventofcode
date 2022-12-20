@@ -1,8 +1,8 @@
-input_path ='C:\\Users\\S0122896\\MyApp\\repo\\adventofcode\\input\\day18.txt'
+input_path ='day18/day18.txt'
 
 data = open(input_path).read().strip()
 
-import sys
+#import sys
 
 droplets = set(
     tuple(map(int, droplet.split(",")))
@@ -19,7 +19,7 @@ def neighbours(x, y, z):
                 (0, 0, 1), ( 0,  0, -1),
             ]
     )
-    
+
 print("Part 1:", sum(
     1 for droplet in droplets
       for droplet0 in neighbours(*droplet)
@@ -32,7 +32,7 @@ ym, *_, yM = sorted(droplet[1] for droplet in droplets)
 zm, *_, zM = sorted(droplet[2] for droplet in droplets)
 
 S = set([
-    # These points, for certain, are outside the lava. 
+    # These points, for certain, are outside the lava.
     (xm - 1, ym - 1, zm - 1),
     (xM + 1, yM + 1, zM + 1),
 ])
@@ -48,11 +48,11 @@ while True:
                 and zm - 1 <= z <= zM + 1
             ):
                 S0.add(s0)
-    
+
     if all(s0 in S for s0 in S0):
         break
     S |= S0
-    
+
 print("Part 2:", sum(
     1 for droplet in droplets
       for droplet0 in neighbours(*droplet)

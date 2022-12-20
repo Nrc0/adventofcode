@@ -1,6 +1,6 @@
 import string
 
-path='input\\day1.txt'
+path='day01/day01.txt'
 cal=[]
 
 with open(path,'r',encoding='utf-8-sig') as f:

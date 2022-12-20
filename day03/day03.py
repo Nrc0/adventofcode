@@ -1,6 +1,6 @@
 import string
 
-path='input\\day3.txt'
+path='day03/day03.txt'
 p1 = 0
 p2 = 0
 

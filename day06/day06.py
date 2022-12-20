@@ -1,4 +1,4 @@
-path='input\\day06.txt'
+path='day06/day06.txt'
 
 with open(path) as f:
     data = f.read().strip()

@@ -1,4 +1,4 @@
-input_path ='input\\day12.txt'
+input_path ='day12/day12.txt'
 
 from collections import deque
 

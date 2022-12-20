@@ -1,4 +1,4 @@
-input_path ='C:\\Users\\S0122896\\MyApp\\repo\\adventofcode\\input\\day15.txt'
+input_path ='day15/day15.txt'
 
 from re import compile
 

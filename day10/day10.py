@@ -1,4 +1,4 @@
-input_path= 'C:\\Users\\quest\\OneDrive\\Documents\\adventofcode2022\\day10\\day10.txt'
+input_path= 'day10/day10.txt'
 
 with open(input_path) as f:
     ls = f.read().strip().split("\n")

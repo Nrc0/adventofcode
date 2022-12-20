@@ -1,6 +1,6 @@
 import string
 
-path='input\\day2.txt'
+path='day02/day02.txt'
 
 with open(path,'r',encoding='utf-8-sig') as f:
     data = f.read().split("\n")

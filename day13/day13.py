@@ -1,4 +1,4 @@
-input_path ='C:\\...\\input\\day13.txt'
+input_path ='day13/day13.txt'
 
 import string
 

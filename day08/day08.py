@@ -1,4 +1,4 @@
-input_path='input\\day08.txt'
+input_path='day08/day08.txt'
 
 input = open(input_path).read().strip().splitlines()
 

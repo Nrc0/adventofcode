@@ -1,4 +1,4 @@
-input_path= 'C:\\Users\\quest\\OneDrive\\Documents\\adventofcode2022\\day11\\day11.txt'
+input_path= 'day11/day11.txt'
 
 
 with open(input_path, "r") as f:

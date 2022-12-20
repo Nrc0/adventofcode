@@ -2,7 +2,7 @@ import collections
 
 p1=0; p2=0; path = ""
 sysfile = collections.defaultdict(int)
-input_path='input\\day07.txt'
+input_path='day07/day07.txt'
 
 for line in open(input_path).readlines()[1:]:
     if '..' in line:

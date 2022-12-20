@@ -1,4 +1,4 @@
-input_path='input\\day09.txt'
+input_path='day09/day09.txt'
 
 rope = [0] * 10
 seen = [set([x]) for x in rope]

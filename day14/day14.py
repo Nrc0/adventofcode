@@ -1,8 +1,8 @@
 import math
-from copy import deepcopy
-from collections import defaultdict, deque
+# from copy import deepcopy
+# from collections import defaultdict, deque
 
-input_path ='C:\\...\\input\\day14.txt'
+input_path ='day14/day14.txt'
 
 data = open(input_path).read().strip()
 lines = [x for x in data.split('\n')]

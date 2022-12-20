@@ -1,4 +1,4 @@
-input_path ='C:\\Users\\S0122896\\MyApp\\repo\\adventofcode\\input\\day17.txt'
+input_path ='day17/day17.txt'
 
 import time
 import os

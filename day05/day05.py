@@ -2,7 +2,7 @@ import string
 import sys
 from copy import deepcopy
 
-path='input\\day05.txt' # from C:\\
+path='day05/day05.txt' # from C:\\
 
 def parse_txt(txt):
     alist = [""]*10

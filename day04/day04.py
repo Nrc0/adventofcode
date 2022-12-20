@@ -1,7 +1,7 @@
 import string
 #import re
 
-path='input\\day4.txt'
+path='day04/day04.txt'
 p1 = 0
 p2 = 0
 
